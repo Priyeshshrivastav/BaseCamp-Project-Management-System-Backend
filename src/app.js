@@ -42,7 +42,7 @@ app.use((err, req, res, next) => {
     data: null,
   });
 });
-
+console.log("hello from bihar")
 module.exports = app;
 
 

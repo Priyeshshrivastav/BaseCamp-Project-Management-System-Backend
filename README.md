@@ -1,3 +1,17 @@
+
+## Installation
+
+npm install
+
+npm run dev
+
+
+
+
+
+
+
+
 # 🏔️ BaseCamp - Collaborative Project Management System Backend
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-v18%2B-brightgreen.svg)](https://nodejs.org/)
@@ -287,3 +301,18 @@ All requests and responses return standard JSON format using the uniform `ApiRes
 ## 📄 License
 
 This project is open-source and licensed under the [ISC License](LICENSE).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
