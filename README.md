@@ -1,17 +1,3 @@
-
-## Installation
-
-npm install
-
-npm run dev
-
-
-
-
-
-
-
-
 # 🏔️ BaseCamp - Collaborative Project Management System Backend
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-v18%2B-brightgreen.svg)](https://nodejs.org/)
